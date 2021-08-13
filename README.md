@@ -1,10 +1,9 @@
-<h1>Student Pre Evaluation Syste</h1>
-<br>
-<br>
-Instructions:<br>
-database: <b>evaluationdb</b><br>
-copy .env.example file and name it .env<br><br>
-open terminal:<br>
-php artisan key:generate<br>
-php artisan migrate<br>
-php artisan serve
+# Student Pre Evaluation System
+
+Instructions:<br><br>
+<strong><i>run in terminal:</i></strong><br>
+<ol>
+    <li>composer install</li>
+    <li>copy env.example .env</li>
+    <li>php artisan key:generate</li>    
+</ol>
